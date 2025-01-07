@@ -1,0 +1,129 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+
+.gmail_logo{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fafafa;
+}
+
+.icons{
+    width: 35px;
+}
+
+.apple_products{
+    width: 500px;
+    margin-top: 40px;
+}
+
+.top_words , .Logo_Link , .bottom_words{
+    margin-left: 10%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 10%;
+  
+  
+}
+.Logo_Link{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5%;
+    margin-bottom: 60px;
+}
+.top_words{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 15px;
+
+
+}
+.placeholding::placeholder{
+text-align: right;
+
+}
+
+.blocking{
+    display: flex;
+    margin: 20px;
+    justify-content: left;
+    
+    
+}
+
+.Right{
+    background-color: #DEE1E6;
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    margin-right: 15%;
+    padding-left: 15px;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    
+    
+    
+}
+.parent{
+    display: flex;
+    background-color: #fafafa;
+    
+    
+
+}
+.left{
+    width: 60%;
+    padding: 50px;
+    margin-left: 15%;
+}
+footer{
+    display: flex;
+    justify-content: right;
+    margin-right: 20%;
+    background-color: #fafafa;
+}
+input{
+    width: 200px;
+    height: 25px;
+}
+.next{
+    display: flex;
+    justify-content: right;
+
+    
+}
+button{
+    width: 85px;
+    height: 32px;
+    margin: 0 auto;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: #4285F4;
+    color: white;
+    
+}
+h1{
+   font-size: 18px; 
+   font-weight: bolder;
+}
+.textbox{
+    width: 80%;
+    height: 30px;
+}
